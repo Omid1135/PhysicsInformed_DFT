@@ -1,3 +1,17 @@
+Our research on physics-informed machine learning for substitutional alloys has been published in the journal "Results in Physics".
+
+This work demonstrates how integrating quantum-mechanical insights, specifically magnetic descriptors, enables accurate energy predictions for alloys while maintaining interpretability. We also show that models trained on one system (e.g., Fe/Mn) can perform zero-shot transfer to isomorphic systems (e.g., Co/Ni) with minimal additional data.
+We are making the full database and basic code available to support reproducible materials discovery.
+
+Article (Open for download):
+https://doi.org/10.1016/j.rinp.2026.108722
+
+Code & Data:
+https://github.com/Omid1135/PhysicsInformed_DFT
+
+#MaterialsScience #PhysicsInformedML #ResultsInPhysics #ComputationalPhysics #DFT #OpenScience
+***
+
 # Physics-Informed Modeling of Transferable Energetics in Substitutional Alloys
 
 This repository contains the datasets and materials supporting the study:
